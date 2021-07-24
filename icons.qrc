@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>img/cancel.png</file>
+        <file>img/copy.png</file>
+        <file>img/iconfinder_352438_redo_icon_512px.png</file>
+        <file>img/icons8-cut-48.png</file>
+        <file>img/icons8-paste-64.png</file>
+        <file>img/icons8-save-64.png</file>
+        <file>img/icons8-save-all-64.png</file>
+        <file>img/icons8-undo-64.png</file>
+        <file>img/open-door.png</file>
+        <file>img/open.png</file>
+        <file>img/paste.png</file>
+        <file>img/pdf.png</file>
+        <file>img/undo-arrow.png</file>
+        <file>img/icons8-info-26.png</file>
+        <file>img/addTab.png</file>
+        <file>img/refresh.png</file>
+        <file>img/stat.png</file>
+    </qresource>
+</RCC>
